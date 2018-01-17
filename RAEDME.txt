@@ -1,1 +1,2 @@
 nowy plik
+Druga linia - dodane z MacOSx
